@@ -38,5 +38,26 @@ El término "opcode" es la abreviatura de "Operational Code" (código operativo)
 ## Bibliografía
 
 [https://chatgpt.com/](https://chatgpt.com/)
+
 [https://techterms.com/](https://techterms.com/)
+
 [https://www.profesionalreview.com/](https://www.profesionalreview.com/)
+
+# Ejercicio 2: Simulador "*Digital*"
+
+Se muestra un prototipo muy básico de un ordenador consistente de 4 elementos principales: la CPU, una memoria que almacena las variables que no se utilizan, una memoria ROM (Read Only Memory) y 4 botones que simulan los periféricos.
+
+Cuando se interactúa con alguno de los 4 botones del ordenador, se despliega una ventana que llenará poco a poco todos los pixeles de la pantalla.
+**FALTA**
+
+# Ejercicio 4: fetch-decode-execute
+
+# Ejercicio 6: Instrucciones tipo C
+
+Existen dos tipos de instrucciones básicas en el procesador empleado para su estudio, éstas son:
+
+* Instrucciones tipo A: Se dan cuando el bit más significativo tiene un valor de 0. Este tipo de instrucción guarda en una memoria interna de la CPU llamada **REGISTRO A** los 15 bits más significativos de la instrucción.
+
+* Instrucciones tipo C:
+
+# Ejercicio 7: Compuertas lógicas de la CPU
