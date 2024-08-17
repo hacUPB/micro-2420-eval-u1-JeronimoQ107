@@ -163,3 +163,17 @@ Se presenta el set de instrucciones de un procesador, diferenciando entre las ar
     Intel 8086: Tamaño variable (3-4 bytes), 15 ciclos de reloj, salta a una dirección específica.
     ARM Cortex-M4: Tamaño fijo (4 bytes), 2 ciclos de reloj, salta a una dirección específica.
     MIPS32: Tamaño fijo (4 bytes), 1 ciclo de reloj, salta a una dirección específica.
+
+### Conclusiones
+
+- **Importancia del Mapa de Memoria:**
+
+El mapa de memoria es fundamental para el acceso eficiente de la CPU a la memoria y periféricos, influenciando directamente el rendimiento del sistema.
+
+- **Comparación de Arquitecturas:**
+
+La arquitectura de Von Neumann, que combina instrucciones y datos en un solo espacio, es más simple pero menos eficiente en velocidad. La arquitectura Harvard, que separa ambos, permite un acceso simultáneo, mejorando la eficiencia operativa.
+
+- **Evolución hacia RISC:**
+
+La evolución de procesadores muestra una preferencia por la arquitectura RISC, que simplifica las instrucciones, facilita el pipeline y mejora la eficiencia energética, en contraste con la complejidad de las arquitecturas CISC.
